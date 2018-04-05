@@ -6,7 +6,7 @@
 
 ##### ¿Cuántos genomas han sido depositados en GOLD? ¿Son los mismos de GENBANK?
  
- Han sido depositados 14.052 genomas en gold. No, no son los mismos que en GENBANK, cabe destacar que GENBANK es dependiente de NCBI, por lo tanto se puede inferir que poseen distinta cantidad de genomas depositados. 
+ Han sido depositados 14.052 genomas en gold. Si, son los mismos que en GENBANK, cabe destacar que GENBANK es dependiente de NCBI, por lo tanto se puede inferir que poseen cantidad de genomas similares, a diferencia que NCBI posee la particularidad de tener además bases no curadas (por lo tanto, es mas grande). 
 #####	¿Cuál es la distribución de procariontes y eucariontes secuenciados?
 Eucariontes 410, procariontes 9843
 ##### ¿Qué es el N50, L50, NG50?
